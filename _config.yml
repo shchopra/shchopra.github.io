@@ -10,7 +10,7 @@ url:                 'TBD'
 # About/contact
 author:
   name:              Calvin Chopra
-  #url:               https://twitter.com/elotroalex
+  url:               https://schopra.me
   email:             calvinchopra@gmail.com
 
 # Permalinks
@@ -45,6 +45,6 @@ exclude:
   - vendor
 
 # Theme
-theme: "ed."
+theme: "Cal"
 
 
