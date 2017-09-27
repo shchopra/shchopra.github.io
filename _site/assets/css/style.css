@@ -83,7 +83,7 @@ body {
     max-width: 38rem; } }
 /* Links */
 a, .text-title a {
-  color: #007777;
+  color: #005B7A;
   text-decoration: none; }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -145,7 +145,7 @@ hr {
 /* Search Highlihting */
 mark {
   color: white;
-  background-color: #007777; }
+  background-color: #005B7A; }
 
 /* Quotes */
 blockquote {
@@ -216,7 +216,7 @@ tbody tr:nth-child(odd) th {
   line-height: .777em; }
 
 .masthead-title a {
-  color: #007777; }
+  color: #005B7A; }
 
 .masthead-title small {
   font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
@@ -291,7 +291,7 @@ h3.masthead-title {
     /* 14px */ } }
 /* Sidebar content */
 .sidebar {
-  background-color: #007777; }
+  background-color: #005B7A; }
 
 .sidebar a {
   font-weight: normal;

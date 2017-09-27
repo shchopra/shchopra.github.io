@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Calvin's Journal
-tagline:             'Thoughts and musings on life'
-description:         'Blog by Calvin Chopra'
-url:                 'TBD'
+title:               Shaurya Chopra
+tagline:             'Blog & Portfolio'
+description:         'Blog for posts about technical stuff, projects and hobbies'
+url:                 'https://shchopra.github.io'
 #baseurl:             ''
 
 # About/contact
 author:
-  name:              Calvin Chopra
+  name:              Shaurya Chopra
   url:               https://schopra.me
-  email:             calvinchopra@gmail.com
+  email:             shaurya.d.chopra@gmail.com
 
 # Permalinks
 
@@ -45,6 +45,6 @@ exclude:
   - vendor
 
 # Theme
-theme: "Cal"
+#theme: "Cal"
 
 
