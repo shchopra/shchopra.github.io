@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Playing with Jekyll and creating this blog"
-author: Calvin Chopra
+author: Shaurya Chopra
 publication-date: 10 July, 2017
 ---
 

@@ -45,6 +45,6 @@ exclude:
   - vendor
 
 # Theme
-#theme: "Cal"
+theme: "ed."
 
 

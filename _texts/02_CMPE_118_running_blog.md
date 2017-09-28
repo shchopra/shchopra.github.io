@@ -1,10 +1,11 @@
-----
+---
 layout: post
 title: "Microblog sequence for introduction to mechatronics (CMPE118 class) at UCSC"
 author: Shaurya Chopra
 publication-date: 28 September, 2017
-----
+---
 
+---
 # What is this microblog sequence about? What is even a microblog sequence?
 
 ## Pinned post
@@ -20,4 +21,4 @@ be brief or ... long. Some of the posts might only have a picture and
 a caption, hence the name microblog sequence. This post will be pinned
 on top and posts following this one will follow. 
 
-
+---
