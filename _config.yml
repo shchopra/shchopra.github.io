@@ -47,4 +47,4 @@ exclude:
 # Theme
 theme: "ed."
 
-
+future: true
