@@ -10,6 +10,7 @@ publication-date: 28 September, 2017
 
 ## Pinned post
 **Date: 09/28/17, Time:3 PM**
+
 I'm in my senior year at University of California, Santa Cruz taking
 what is considered the hardest course on campus. Today, was the first
 day of classes and I decided to start a posting on this page. I'll
