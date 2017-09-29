@@ -6,10 +6,10 @@ publication-date: 28 September, 2017
 ---
 
 ---
-# What is this microblog sequence about? What is even a microblog sequence?
+# What is this microblog sequence about? What is a microblog sequence?
 
 ## Pinned post
-**Date: 09/28/17, Time:3 PM**
+**Date: 09/28/17, Time: 3 PM**
 
 I'm in my senior year at University of California, Santa Cruz taking
 what is considered the hardest course on campus. Today, was the first
