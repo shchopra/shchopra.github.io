@@ -52,3 +52,8 @@ Selected figures from the study:
 ![Tensegrity Figure 1]({{ site.url }}/assets/tensegrity_arm_1.png)
 
 ---
+### 3. **Journal Paper: Developing an Autonomous Unmanned Aerial System to Estimate Field Terrain Corrections for Gravity Measurements [In Review at [Leading Edge](http://seg.org/Publications/The-Leading-Edge)]**
+#### Leon Kaub, Christopher Seruge, Shauryadeep Chopra, Jonathan M.G. Glen, Mircea Teodorescu
+
+![Autonomous UAV w/ Control Points]({{ site.url }}/assets/usgs_journal.jpg)
+
