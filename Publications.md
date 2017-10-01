@@ -41,12 +41,14 @@ well as for designing the controllers.
 
 ---
 
-### **2.  [A bio-inspired tensegrity manipulator with multi-DOF, structurally compliant joints](http://ieeexplore.ieee.org/abstract/document/7759811/)**
+### **2.  [A bio-inspired tensegrity manipulator with multi-DOF, structurally compliant joints](https://arxiv.org/pdf/1604.08667.pdf)**
 #### Steven Lessard, Dennis Castro, William Asper, **Shaurya Chopra**, Leya Breanna Baltaxe-Admony, Mircea Teodorescu, Vytas SunSpiral, Adrian Agogino
 #### In the Proceedings of the International Conference on Intelligent Robots and Systems (IROS), Daejeon, Korea, October 2016
 ---
 **Abstract**: Most traditional robotic mechanisms feature inelastic joints that are unable to robustly handle large deformations and off-axis moments. As a result, the applied loads are transferred rigidly throughout the entire structure. The disadvantage of this approach is that the exerted leverage is magnified at each subsequent joint possibly damaging the mechanism. In this paper, we present two lightweight, elastic, bio-inspired tensegrity robotic arms adapted from prior static models which mitigate this danger while improving their mechanism's functionality. Our solutions feature modular tensegrity structures that function similarly to the human elbow and the human shoulder when connected. Like their biological counterparts, the proposed robotic joints are flexible and comply with unanticipated forces. Both proposed structures have multiple passive degrees of freedom and four active degrees of freedom (two from the shoulder and two from the elbow). The structural advantages demonstrated by the joints in these manipulators illustrate a solution to the fundamental issue of elegantly handling off-axis compliance. Additionally, this initial experiment illustrates that moving tensegrity arms must be designed with large reachable and dexterous workspaces in mind, a change from prior tensegrity arms which were only static. These initial experiments should be viewed as an exploration into the design space of active tensegrity structures, particularly those inspired by biological joints and limbs.
 
----
+Selected figures from the study:
+
+![Tensegrity Figure 1]({{ site.url }}/assets/tensegrity_arm_1.png)
 
 ---
