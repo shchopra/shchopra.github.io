@@ -51,11 +51,14 @@ over the years.
 This lab also had a prelab where we had to hash out our designs and pseudocode
 even before we begin working on the actual software and hardware. I enjoyed
 doing that. I want to get in to the habit of doing that all the time. It's a lot
-of fun so far.This post will be updated with videos
-and will be proofread soon. 
+of fun so far.This post 
+will be proofread soon. 
 
 
 ### Videos
-Videos for the roach are uploading. 
+<iframe width="700" height="420" src="http://www.youtube.com/embed/_fviaEYPr7E?color=white&theme=light"></iframe>
+
+<iframe width="700" height="420" src="http://www.youtube.com/embed/Fck8WLQOpmU?color=white&theme=light"></iframe>
+
 
 ---
