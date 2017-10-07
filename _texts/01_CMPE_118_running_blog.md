@@ -56,9 +56,13 @@ will be proofread soon.
 
 
 ### Videos
-<iframe width="700" height="420" src="http://www.youtube.com/embed/_fviaEYPr7E?color=white&theme=light"></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=_fviaEYPr7E
+" target="_blank"><img src="http://img.youtube.com/vi/_fviaEYPr7E/0.jpg" 
+alt="FSM Implementation Video" width="700" height="420" border="0" /></a>
 
-<iframe width="700" height="420" src="http://www.youtube.com/embed/Fck8WLQOpmU?color=white&theme=light"></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Fck8WLQOpmU
+" target="_blank"><img src="http://img.youtube.com/vi/Fck8WLQOpmU/0.jpg" 
+alt="HSM Implementation Video" width="700" height="420" border="0" /></a>
 
 
 ---
