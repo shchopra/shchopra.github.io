@@ -24,6 +24,22 @@ on top and posts following this one will follow.
 
 ---
 
+## Post Lab 0 completion
+**Date: 10/07/17, Time: 5:48 PM**
+
+After finishing up the lab and on successful completion of the report
+last night. Talia, Alex and I went out to celebrate the publication of
+my first journal paper. We had some incredible food in downtown santa
+cruz. This morning, I slept in and got some really good sleep. I have
+been particular about my sleep schedule because I realized that this
+is how I am able to do good work. There were days during the week when
+I got an hour less sleep than usual and even that wavers my quality of
+work sometimes. It was also nice to go to a BBQ that my adviser had
+for our lab and reconnect with everyone in the lab. Today was a
+relaxing day with a perfect balance of work and leisure (not generally
+a norm this academic term).
+
+---
 ## Lab 0 Done!
 **Date: 10/06/17, Time: 11:00 AM**
 
