@@ -72,6 +72,7 @@ will be proofread soon.
 
 
 ### Videos
+#### Click on the images to get redirected to the videos on youtube.
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=_fviaEYPr7E
 " target="_blank"><img src="http://img.youtube.com/vi/_fviaEYPr7E/0.jpg" 
 alt="FSM Implementation Video" width="700" height="420" border="0" /></a>
