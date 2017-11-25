@@ -23,7 +23,23 @@ a caption, hence the name microblog sequence. This post will be pinned
 on top and posts following this one will follow. 
 
 ---
+## Post thanksgiving, Getting closer to the final
+**Date: 11/24/17, Time: 6:29 PM**
 
+We've been working on getting our sensor components working this week.
+The track wire sensors are all soldered up, tested and are working.
+We've saved the schematics for all the tested sensors and are in the
+process of crystallizing it by putting it all on the perfboard. On the
+software side, we've got the framework going and we can control our
+motors using the events and services framework. We have access to the
+hardware timers for timing events which means that we can now have
+microsecond resolution timing! As opposed to a millisecond resolution
+which we had before. This is really fun so far! Now the challenge is
+to get synchronous sampling from light sensors working in time along
+with tape following software. Once that is done, there will be room to
+write drivers for the ultrasonic sensors. Now back to it!
+
+---
 ## Post Lab 0 completion
 **Date: 10/07/17, Time: 5:48 PM**
 
